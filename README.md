@@ -1,6 +1,6 @@
 # Intro to GitHub
 # lab 3
-# pf lab
+# PF lab
 **Bold**\
 *Italic*\
 ***Bold and italic***
